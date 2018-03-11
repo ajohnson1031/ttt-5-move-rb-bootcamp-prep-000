@@ -12,3 +12,5 @@ def input_to_index(n)
 end 
 
 def move(board, index)
+
+end
